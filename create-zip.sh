@@ -1,3 +1,4 @@
+set -eux
 DST_FOLDER=$1
 
 cp $1/db-timestamps.json .
